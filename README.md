@@ -32,7 +32,7 @@ pip install -r requirements.txt
 Данные варианта скачиваются скриптом из репозитория курса:
 
 ```bash
-git clone https://github.com/haiksarg/computer-vision-course.git
+git clone https://github.com/ykvnkm/computer-vision-course.git
 cd computer-vision-course
 python data/get_data.py --variant 17
 ```
