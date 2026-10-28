@@ -8,8 +8,6 @@
 
 ## Работы
 
-> Статус обновляйте сами после каждого коммита: не начата → в работе → сдана. Ссылка ведёт в папку работы с её отчётом.
-
 | № | Тема | Папка | Статус |
 | --: | --- | --- | --- |
 | 1 | Среда, репозиторий и первый взгляд на данные | [lab01](lab01/) | сдана |
@@ -21,7 +19,7 @@
 
 ## Итоговый проект
 
-> Вставьте ссылку на репозиторий команды.
+
 
 ## Как запустить
 
@@ -34,9 +32,9 @@ pip install -r requirements.txt
 Данные варианта скачиваются скриптом из репозитория курса:
 
 ```bash
-git clone https://github.com/ykvnkm/computer-vision-course.git
+git clone https://github.com/haiksarg/computer-vision-course.git
 cd computer-vision-course
-python data/get_data.py --variant NN
+python data/get_data.py --variant 17
 ```
 
 Порядок запуска каждой работы описан в README её папки.
